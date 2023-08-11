@@ -22,7 +22,7 @@ Iyzico is a financial technology company that enhances the online shopping exper
 
 ### Dataset Story
 
-| Alan                | Açıklama                                      |
+| Feature             | Description                                   |
 |---------------------|-----------------------------------------------|
 | transaction_date    | History of sales data                         |
 | merchant_id         | ID's of member businesses                     |
