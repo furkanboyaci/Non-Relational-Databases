@@ -8,7 +8,7 @@ docker-compose up -d
 ![image](https://github.com/furkanbyc/Non-Relational-Databases/assets/90900094/a6866458-67a0-47fc-9093-1a69be93e102)
 
 ----------------------
-## Case 1
+## Cassandra - Case 1
 
 ![image](https://github.com/furkanbyc/Non-Relational-Databases/assets/90900094/7deeb57c-febf-4bcc-93be-0fecbbd1f8d4)
 
